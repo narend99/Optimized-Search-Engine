@@ -1,4 +1,4 @@
-# Optimized-Serach-Engine
+# Optimized-Search-Engine
 
  A custom search engine project that integrates the Google Custom Search API and employs filtering techniques to rank results.
  Flask Framework is used to create a user interface for conducting searches and viewing results.
